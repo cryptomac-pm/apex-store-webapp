@@ -1,0 +1,6 @@
+{
+  "name": "Apex Athletics - Premium Sports Kits",
+  "description": "High-performance sports kits and technical apparel for Soccer, Basketball, Running, and Training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
